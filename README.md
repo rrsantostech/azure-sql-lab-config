@@ -39,6 +39,9 @@ Praticar a criação e configuração de uma instância de Banco de Dados SQL no
 
 As imagens estão disponíveis na pasta `/images`.
 
+![image](https://github.com/user-attachments/assets/ff4db5e6-33e4-4476-84e5-7c602e0b49ba)
+
+
 ---
 
 ## 📚 Links Úteis
