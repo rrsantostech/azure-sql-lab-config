@@ -49,8 +49,7 @@ As imagens estão disponíveis na pasta `/images`.
 
 ---
 
-## 🚀 Autor
-
-Ricardo Rodrigues dos Santos  
-Founder & Owner - Site Clean | Consultor em Inovação e Transformação Digital  
-[LinkedIn](https://www.linkedin.com/in/seu-usuario) • [Portfólio](https://seusite.com.br)
+📫 **Conecte-se comigo**
+- [LinkedIn](https://www.linkedin.com/in/rrsantostech)
+- 📧 rrsantostech@gmail.com 
+- 🌍 Em breve: [rrsantostech.dev](https://sitebc.com.br) *(portfólio pessoal)*
